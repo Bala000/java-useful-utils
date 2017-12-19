@@ -8,4 +8,4 @@ Useful java code snippets
   1. Implement equals and hashCode method of the custom class
 * sort hashmap by key using TreeMap
   1. If you are using a custom class as key, then implement comparable with the class and implement comparTo method
-
+* convert int[] to List<Integer>
